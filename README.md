@@ -1,4 +1,7 @@
 ### Hi there 👋
+Check out my portfolio: https://shreyasx.github.io/me/
+Got business to do?
+My email - shreyasx@protonmail.ch
 
 <!--
 **shreyasx/shreyasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
