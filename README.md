@@ -1,5 +1,5 @@
 ### Hey there !👋 <br/>
-Check out my portfolio: https://shreyasx.github.io/me/ <br/>
+Check out my portfolio: https://shreyasx.github.io <br/>
 Reach out! - shreyasx@protonmail.ch
 
 <!--
