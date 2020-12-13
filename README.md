@@ -1,6 +1,6 @@
 ### Hey there !👋 <br/>
 Check out my portfolio: https://shreyasx.github.io/ <br/>
-Reach out! - shreyasx@protonmail.ch
+Reach out! - shreyxs@gmail.com
 
 <!--
 **shreyasx/shreyasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
