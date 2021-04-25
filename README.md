@@ -1,5 +1,5 @@
 ### Hey there !👋 <br/>
-Check out my portfolio: https://www.shreyasjamkhandi.tech/ <br/>
+Check out my portfolio: https://shreyasjamkhandi.tech/ <br/>
 Reach out! - shreyxs@gmail.com
 
 <!--
