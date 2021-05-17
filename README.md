@@ -1,6 +1,6 @@
 ### Hey there !👋 <br/>
 My website: https://shreyasjamkhandi.tech/ <br/>
-Reach out! - don@shreyasjamkhandi.tech
+Reach out! - shreyxs@gmail.com
 
 <!--
 **shreyasx/shreyasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
