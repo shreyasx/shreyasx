@@ -1,5 +1,5 @@
 ### Hey there !👋 <br/>
-My website: shreyasjamkhandi.tech <br/>
+My website: [shreyasjamkhandi.tech](https://shreyasjamkhandi.tech/) <br/>
 Reach out! - shreyxs@gmail.com
 
 <!--
