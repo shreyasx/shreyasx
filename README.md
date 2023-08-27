@@ -1,5 +1,5 @@
 ### Hey there !👋 <br/>
-My website: [shreyasjamkhandi.tech](https://shreyasjamkhandi.tech/) <br/>
+My website: [shreyasx.netlify.app](https://shreyasx.netlify.app/) <br/>
 Reach out! - shreyxs@gmail.com
 
 <!--
